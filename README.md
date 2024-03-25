@@ -1,6 +1,6 @@
 ### Hi Sam Here  👋
 
-- 🌱 I’m currently learning fullstack web development at Hyperiondev under CoGrammar. The goal is to learn my way around the interwebs and create pages you can interact with for hours on end.
+🌱 I’m currently learning fullstack web development at Hyperiondev under CoGrammar. The goal is to learn my way around the interwebs and create pages you can interact with for hours on end.
 
 <!--
 **SamOwe/SamOwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
